@@ -1,6 +1,15 @@
 # 💫 About Me:
-Hi, I'm Ismail Rafaquat a Flutter UI/UX Designer and Full Stack Developer. I build great-looking and functional apps with Flutter and make sure they run smoothly with strong backend tech.<br><br>I work with front-end technologies like Flutter, Dart, and UI/UX design, and back-end technologies like .NET, C#, and C++. I also handle databases using SQL and SQLite.<br><br>Right now, I'm focused on making innovative mobile apps and enhancing user experiences. I also keep up with the latest trends in tech and design.<br><br>Connect with me on LinkedIn, Twitter, or email. I'm open to new projects and collaborations. If you have an idea or need help, feel free to reach out!
+Hi, I'm Ismail Rafaquat — a Web Development ,  Flutter  and Full Stack Developer passionate about building intuitive, high-performing applications.
 
+In addition to mobile apps, I also develop full-stack web applications using modern frameworks like Angular, Blazor Server, and ABP.io. I'm experienced in implementing real-time features using SignalR, such as live notifications and updates, and integrating complex workflows across scalable enterprise systems.
+
+I specialize in Flutter and Dart for front-end mobile development, along with UI/UX design that ensures exceptional user experiences. On the backend, I work with .NET, C#, C++, and manage databases using SQL , Postgres, MySQL WorkBench and SQLite.
+
+I've contributed to multiple diverse projects, including platforms like TrueFin.io and Reportal, where I played a key role in both frontend and backend development.
+
+Currently, I’m focused on delivering innovative cross-platform solutions and continuously refining user experiences, all while staying up-to-date with the latest technology trends and design patterns.
+
+📫 I'm open to collaborations, freelance work, or project-based roles. Feel free to reach out if you have an idea or need help bringing your vision to life!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ismailkayani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ismail.rafaquat.756) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/IsmailRafaquat) 
